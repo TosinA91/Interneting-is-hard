@@ -1,1 +1,1 @@
-# Taking the Internetting-is-hard tutorial for an HTML & CSS refresher
+# Internetting-is-hard tutorial
